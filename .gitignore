@@ -1,0 +1,14 @@
+# Compiled application
+/pokedex
+/pokedex.exe
+
+# Local logs
+*.log
+
+# Go test binaries and coverage output
+*.test
+/coverage.out
+/coverage.html
+
+# macOS metadata
+.DS_Store
